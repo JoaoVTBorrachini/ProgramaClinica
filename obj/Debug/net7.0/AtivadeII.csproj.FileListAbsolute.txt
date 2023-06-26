@@ -1,0 +1,15 @@
+C:\Users\404011\Desktop\Ativade II\bin\Debug\net7.0\AtivadeII.exe
+C:\Users\404011\Desktop\Ativade II\bin\Debug\net7.0\AtivadeII.deps.json
+C:\Users\404011\Desktop\Ativade II\bin\Debug\net7.0\AtivadeII.runtimeconfig.json
+C:\Users\404011\Desktop\Ativade II\bin\Debug\net7.0\AtivadeII.dll
+C:\Users\404011\Desktop\Ativade II\bin\Debug\net7.0\AtivadeII.pdb
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.csproj.AssemblyReference.cache
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.AssemblyInfoInputs.cache
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.AssemblyInfo.cs
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.csproj.CoreCompileInputs.cache
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.dll
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\refint\AtivadeII.dll
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.pdb
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\AtivadeII.genruntimeconfig.cache
+C:\Users\404011\Desktop\Ativade II\obj\Debug\net7.0\ref\AtivadeII.dll
